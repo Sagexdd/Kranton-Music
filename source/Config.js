@@ -1,9 +1,9 @@
 module.exports = {
   token: {
     manaspapa1:
-      "MTMzMDQzNzA0Mzc1ODgyNTUwMg.GSt0-5.FvSfH3U36NhE-NQx965bBC7pk0cF1KAmgARhSQ",
+      "",
     manaspapa2:
-      "MTMzMDQzNzA0Mzc1ODgyNTUwMg.GSt0-5.FvSfH3U36NhE-NQx965bBC7pk0cF1KAmgARhSQ",
+      "",
   },
   tokenTopgg: ""
   mongoURL: {
